@@ -1,0 +1,16 @@
+--- #YAML:1.0
+name:                Template-Plugin-Duration
+version:             0.01
+abstract:            TT plugin for Time::Duration
+license:             ~
+author:              
+    - Yusuke Sugiyama <ally@blinkingastar.net>
+generated_by:        ExtUtils::MakeMaker version 6.44
+distribution_type:   module
+requires:     
+    Template:                      2.08
+    Test::More:                    0.32
+    Time::Duration:                1.06
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
